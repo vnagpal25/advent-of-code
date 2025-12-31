@@ -1,6 +1,5 @@
 import os
 import re
-import numpy as np
 import itertools
 
 day = os.path.basename(__file__).split(".")[0]
